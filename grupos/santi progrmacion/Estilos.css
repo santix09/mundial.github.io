@@ -1,0 +1,52 @@
+body { background-image: radial-gradient(#C70039, black ) }
+h1 {text-align: center;
+color: white}
+h2 {text-align: center;
+color: black}
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;}
+a:visited {color: black}
+a:visited:hover { color: black; }
+a {
+    text-decoration: none;
+    background-image: linear-gradient(currentColor, currentColor);background-position: 0% 100%; 
+    background-repeat: no-repeat; background-size: 0% 2px; transition: background-size .3s;}
+a:hover, a:focus { background-size: 100% 2px;}
+.Primero{border: 2px solid black}
+.Primero{border-collapse: collapse;}
+.Primero{text-align: center;width: 25%}
+.Primero{background-color:#A22727 }
+.Primero{position: relative;float: left;}
+.Segundo{background-color: #C83C1B }
+.Segundo{border: 2px solid black}
+.Segundo{border-collapse: collapse;}
+.Segundo{text-align: center;width: 25%}
+.Segundo{position: relative;float: left;}
+.Tercero{background-color: #B86E1B  }
+.Tercero{position: relative;float: left;}
+.Tercero{border: 2px solid black}
+.Tercero{border-collapse: collapse;}
+.Tercero{text-align: center; width: 25%}
+.Cuarto {background-color: #EC3838}
+.Cuarto {text-align: center; width: 25%}
+.Cuarto {border-collapse: collapse;}
+.Cuarto {border: 2px solid black}
+.Quinto {text-align: center; width: 25%}
+.Quinto {border-collapse: collapse;}
+.Quinto {border: 2px solid black;}
+.Quinto {background-color: #934B00}
+.Quinto {position: relative;float: left;}
+.Sexto {text-align: center; width: 25%}
+.Sexto {border-collapse: collapse;}
+.Sexto {border: 2px solid black;}
+.Sexto {background-color: #B60435}
+.Sexto {position: relative;float: left;}
+.Septimo {text-align: center; width: 25%}
+.Septimo {border-collapse: collapse;}
+.Septimo {border: 2px solid black;}
+.Septimo {background-color: #648D1A}
+.Septimo {position: relative;float: left;}
+.Octavo {text-align: center; width: 25%}
+.Octavo {border-collapse: collapse;}
+.Octavo {border: 2px solid black;}
+.Octavo {background-color: #800ADC}
